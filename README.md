@@ -159,8 +159,6 @@ EmployeeManagement em = new EmployeeManagement();
 
 ## 📷 Screenshots (Optional)
 
-You can add screenshots like:
-
 ```
 MainFrame Window
 <img width="984" height="742" alt="image" src="https://github.com/user-attachments/assets/590763c8-0bfa-44f3-885b-fcf9319b8481" />
